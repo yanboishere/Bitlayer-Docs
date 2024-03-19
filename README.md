@@ -23,6 +23,10 @@ git push
 mkdocs serve
 ```
 
+---
+
+Beta version
+
 ## publish
 ```
 git checkout main
