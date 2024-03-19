@@ -1,6 +1,6 @@
 # Bitlayer
 
-the first bitcoin security-equivalent layer2 based on bitvm
+The first bitcoin security-equivalent layer2 based on bitvm
 
 ## Learn more information
 
