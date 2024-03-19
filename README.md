@@ -30,7 +30,6 @@ git checkout main
 mkdocs gh-deploy 
 ```
 
-
 ---
 
 Beta version
